@@ -5,7 +5,7 @@
 </p>
 
 
-Usage : ``python -c "COOKIE"``
+Usage : ``python exploit.py -c "COOKIE"``
 
 Any authenticated **manager** can fully use this however, any **other** role can only use the ``second exploit`` which can be use to chain another exploit 
 
