@@ -1,5 +1,10 @@
 # MantisBT : Privatus
 
+<p align="center">
+   <img src="https://github.com/jrckmcsb/MantisBT-Privatus/blob/main/logo.png"/>
+</p>
+
+
 Usage : ``python -c "COOKIE"``
 
 Any authenticated **manager** can fully use this however, any **other** role can only use the ``second exploit`` which can be use to chain another exploit 
