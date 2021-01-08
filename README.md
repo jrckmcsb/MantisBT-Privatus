@@ -29,7 +29,7 @@ Configure the following
 
 Any authenticated **manager** can disclosed the ``private project name`` due to fact that the ``private project name`` will render on navbar. 
 
-**Note : ** If you are authenticated using any other **role** (reporter - viewer) and used this exploit, this will only return your ``username/name``.
+**Note :** If you are authenticated using any other **role** (reporter - viewer) and used this exploit, this will only return your ``username/name``.
 
 
 
