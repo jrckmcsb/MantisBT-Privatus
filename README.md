@@ -108,9 +108,10 @@ The first and second exploit allows you to disclose just the ``summary,status, a
 You can read the full report [here](https://mantisbt.org/bugs/view.php?id=27357)
 
 
+# PoC
 
 
-
+ <img src="https://github.com/jrckmcsb/MantisBT-Privatus/blob/main/poc.gif"/>
 
 
 
