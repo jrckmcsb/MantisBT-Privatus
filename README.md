@@ -63,7 +63,7 @@ The first and second exploit allows you to disclose just the ``summary,status, a
 
    
 
-3. Resend again the exploit
+3. Resend the exploit
 
    
 
